@@ -1,0 +1,22 @@
+{
+	"adType":"GOOGLE_AD",
+	"adObject": {
+
+		"icon":"https://lh3.googleusercontent.com/2ogZEmdwNzkKd8zR6w8xdmRvkNgx2Pc5ELqrbIZb_ZNrDlH-V2ROedeLH0qdM-ClVA=w300",
+        "cover":"https://lh3.googleusercontent.com/_CzX8mPhXD4FVcz2IoKBjJcG0-dfZ85qSF5IXDgwjwXULH-lB8lNR9wg6OC4qElpT2Nx=h310",
+        "appName":"Clean Booster",
+        "publisherName":"PREMIUM PHOTO STUDIO",
+        "packageName":"memory.cooler.memoryMaster.memoryBooster",
+        "url":"https://play.google.com/store/apps/details?id=memory.cooler.memoryMaster.memoryBooster"
+	},
+	
+	"smallAd": {
+
+		"icon":"https://lh3.googleusercontent.com/KKS-H_s7gq1G0kT3VWDdweH6223mhUaHFOWbyVkkbYazLeRlQ86C91xSC7--7ICoBg=w300",
+        "cover":"https://lh3.googleusercontent.com/Oy9n_XKpmXUKuaFRIU2jEoHVxfqfeWFC81D2eFLUipjYHrlXKMdmMXSJe8WhTreY2Nk=h310",
+        "appName":"CPU Cooler Master",
+        "publisherName":"PREMIUM PHOTO STUDIO",
+        "packageName":"memory.cooler.cpu.master.fast.cleanner",
+        "url":"https://play.google.com/store/apps/details?id=memory.cooler.cpu.master.fast.cleanner"
+	}
+}
